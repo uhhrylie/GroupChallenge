@@ -1,0 +1,22 @@
+
+body {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+  color: #899a6a;
+  font-family: 'Bubblegum Sans';
+  -webkit-text-stroke: 0.3px #5c684b;
+  font-weight: bolder;
+  font-size: 25px;
+  background-image: url('bg.jpeg');
+  ;
+}
+h1 {  color: #df7ccd;
+  font-family: 'bubblegum sans'; 
+  -webkit-text-stroke: 0.8px #5c684b;
+  font-weight: bolder;
+   font-size: 30px;}
+
+a:link {
+  color: #d1a193;
+}
